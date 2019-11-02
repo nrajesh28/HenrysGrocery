@@ -13,7 +13,7 @@ Instruction to run the application
 
 Download the project
 
-mvn clean install
+Run command : "mvn clean install"
 
 Now you can see "Henrys-Grocery-1.0-SNAPSHOT.jar" in target folder
 
