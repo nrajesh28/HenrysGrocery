@@ -3,7 +3,7 @@ Shopping Cart Application
 
 This application enables user to purchase available product through command prompt.
 
-It also displays various discount provided on the product with valid of the offer as well.
+It also displays various discount provided on the product with validity of the offer as well.
 
 ############################################
 
