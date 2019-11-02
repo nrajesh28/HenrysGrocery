@@ -1,5 +1,5 @@
 # HenrysGrocery
-Shopping Cart Application
+HenrysGrocery Shopping Application
 
 This application enables user to purchase available product through command prompt.
 
